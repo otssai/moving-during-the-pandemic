@@ -1,1 +1,2 @@
 # driving-during-the-pandemic
+It can be stressful to drive long distance during the pandemic because one might not know the safest places to stop for food, gas, and public restrooms. This app is designed to alleviate this stress. It allows the user to find out the counties they will be driving through and shows them the updated statistics about Covid-19 in each county so that they can find the safest counties to stop.
