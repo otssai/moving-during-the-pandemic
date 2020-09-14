@@ -1,15 +1,11 @@
 package org.launchcode.movingduringthepandemic.controllers;
 
-import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
-import org.launchcode.movingduringthepandemic.models.CovidData;
 import org.launchcode.movingduringthepandemic.models.Json;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 
 @Controller
 public class HelloController {
